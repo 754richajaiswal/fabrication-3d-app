@@ -1,7 +1,7 @@
 **FABRICATION-3D-APP**
 
 A 3D Fabrication application built using **Next.js**, **React Three Fiber**, and **Three.js**.  
-This tool allows users to upload images, preview them as 3D textures, change colors, and interact with the 3D model.
+This tool allows users to upload images, preview them as 3D texture.
 
 ##  Features
 Image Upload & Preview
